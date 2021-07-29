@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="SheetMetal2D.GeometryParametersUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SheetMetal2D"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="394">
+    <Grid>
+        <RadioButton Name="Fillbtn" Content="Fill" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top" Foreground="White" Width="41" />
+
+    </Grid>
+</UserControl>

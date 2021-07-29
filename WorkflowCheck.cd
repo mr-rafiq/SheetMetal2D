@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SheetMetal2D.CrimpedEdge">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>CrimpedEdge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheetMetal2D.Edgebase">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAIAQAgAAIAAUQCAIAAgAAAEAAAABEAASAAAQAg=</HashCode>
+      <FileName>CrimpedEdge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheetMetal2D.CrimpClass">
+    <Position X="1" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CrimpedEdge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheetMetal2D.CurveClass">
+    <Position X="14" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="SheetMetal2D.CurveClass.GetOffsetCurve" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Commands\CurveClass.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAA=</HashCode>
+      <FileName>Commands\CurveClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheetMetal2D.ObjectTablesID">
+    <Position X="7.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAABAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectTablesID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheetMetal2D.AttributeIds">
+    <Position X="7.25" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAABACAAAIFBAAAAACAEEAAIQAAIAAEAAAA=</HashCode>
+      <FileName>ObjectTablesID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SheetMetal2D.ObjectLayers">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAIAAAAAAAAABAABAAAAAAAAAA=</HashCode>
+      <FileName>ObjectTablesID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
